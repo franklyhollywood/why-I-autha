@@ -21,4 +21,5 @@ jobs:
           JWT_SECRET: secret
           CLIENT_ID: 0da0e606bb6f948ee447
           CLIENT_SECRET: 79644c731506d8af47cb1bc10c430a4910114685
+          COOKIE_NAME: session
           REDIRECT_URI: http://localhost:7890/api/v1/github/login/callback
